@@ -1,1 +1,1171 @@
 [2023-07-07 16:22:48,374: INFO: main: Welcome to our Custom Log.]
+[2023-07-07 20:32:00,530: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 20:32:00,534: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 20:32:00,537: INFO: common: created directory at: artifacts]
+[2023-07-07 20:32:00,542: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 20:32:58,441: INFO: 4248079149: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2E8A:346864:1636B7:1E409D:64A82FF9
+Accept-Ranges: bytes
+Date: Fri, 07 Jul 2023 15:32:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fjr990023-FJR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1688743931.569024,VS0,VE540
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f7c52b704fe5a0518310df81673a8dd4ec09916d
+Expires: Fri, 07 Jul 2023 15:37:11 GMT
+Source-Age: 0
+
+]
+[2023-07-07 21:16:38,268: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:16:38,273: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:16:38,278: INFO: common: created directory at: artifacts]
+[2023-07-07 21:16:38,282: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 21:17:01,985: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:17:01,989: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:17:01,992: INFO: common: created directory at: artifacts]
+[2023-07-07 21:17:01,994: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 21:17:30,875: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:17:30,880: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:17:30,883: INFO: common: created directory at: artifacts]
+[2023-07-07 21:17:30,886: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 21:17:57,185: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:17:57,188: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:17:57,191: INFO: common: created directory at: artifacts]
+[2023-07-07 21:17:57,193: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 21:18:18,660: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:18:18,663: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:18:18,666: INFO: common: created directory at: artifacts]
+[2023-07-07 21:18:18,668: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 21:18:26,282: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:18:26,286: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:18:26,289: INFO: common: created directory at: artifacts]
+[2023-07-07 21:19:29,280: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:19:29,285: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:19:29,289: INFO: common: created directory at: artifacts]
+[2023-07-07 21:19:36,955: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:19:36,959: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:19:36,963: INFO: common: created directory at: artifacts]
+[2023-07-07 21:21:14,664: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:21:14,669: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:21:14,673: INFO: common: created directory at: artifacts]
+[2023-07-07 21:22:19,738: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:22:19,742: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:22:19,745: INFO: common: created directory at: artifacts]
+[2023-07-07 21:23:22,706: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:23:22,711: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:23:22,713: INFO: common: created directory at: artifacts]
+[2023-07-07 21:23:22,717: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 21:24:00,641: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:24:00,646: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:24:00,650: INFO: common: created directory at: artifacts]
+[2023-07-07 21:24:56,845: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:24:56,850: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:24:56,852: INFO: common: created directory at: artifacts]
+[2023-07-07 21:24:56,854: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 21:26:18,904: INFO: main: Stage 01: Data Ingestion Stage Started]
+[2023-07-07 21:26:18,904: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:26:18,904: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:26:18,904: INFO: common: created directory at: artifacts]
+[2023-07-07 21:26:18,904: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 21:27:34,627: INFO: data_Ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2AFA:75A1:6B316C:7EC244:64A83CAD
+Accept-Ranges: bytes
+Date: Fri, 07 Jul 2023 16:26:22 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fjr990026-FJR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1688747181.963937,VS0,VE1081
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: bea61d1f22918b75ff9a27578a13dc3511ab4f12
+Expires: Fri, 07 Jul 2023 16:31:22 GMT
+Source-Age: 1
+
+]
+[2023-07-07 21:27:34,847: INFO: main: Stage 01: Data Ingestion Stage Completed Successfully]
+[2023-07-07 21:28:58,290: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 21:28:58,295: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 21:28:58,298: INFO: common: created directory at: artifacts]
+[2023-07-07 21:28:58,303: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 22:11:15,617: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:11:15,633: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:11:15,633: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:11:15,633: INFO: common: created directory at: artifacts]
+[2023-07-07 22:11:15,649: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:11:15,649: ERROR: main: cannot access local variable 'data_ingestion_config' where it is not associated with a value]
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 13, in <module>
+    data_ingestion.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_01_Data_Ingestion.py", line 12, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\config\configuration.py", line 23, in get_data_ingestion_config
+    data_ingestion_config = data_ingestion_config(
+                            ^^^^^^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'data_ingestion_config' where it is not associated with a value
+[2023-07-07 22:12:46,391: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:12:46,407: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:12:46,407: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:12:46,407: INFO: common: created directory at: artifacts]
+[2023-07-07 22:12:46,407: ERROR: main: 'ConfigurationManager' object has no attribute 'DataIngestion']
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 13, in <module>
+    data_ingestion.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_01_Data_Ingestion.py", line 12, in main
+    data_ingestion_config = config.DataIngestion()
+                            ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'DataIngestion'
+[2023-07-07 22:13:23,359: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:13:23,374: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:13:23,374: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:13:23,374: INFO: common: created directory at: artifacts]
+[2023-07-07 22:13:23,374: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:13:23,374: ERROR: main: cannot access local variable 'data_ingestion_config' where it is not associated with a value]
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 13, in <module>
+    data_ingestion.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_01_Data_Ingestion.py", line 12, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\config\configuration.py", line 23, in get_data_ingestion_config
+    data_ingestion_config = data_ingestion_config(
+                            ^^^^^^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'data_ingestion_config' where it is not associated with a value
+[2023-07-07 22:14:37,101: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:14:37,101: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:14:37,101: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:14:37,101: INFO: common: created directory at: artifacts]
+[2023-07-07 22:14:37,101: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:14:37,101: ERROR: main: name 'DataIngestion' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 13, in <module>
+    data_ingestion.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_01_Data_Ingestion.py", line 12, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\config\configuration.py", line 23, in get_data_ingestion_config
+    data_ingestion_config = DataIngestion(
+                            ^^^^^^^^^^^^^
+NameError: name 'DataIngestion' is not defined
+[2023-07-07 22:31:16,238: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:31:16,238: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:31:16,238: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:31:16,238: INFO: common: created directory at: artifacts]
+[2023-07-07 22:31:16,238: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:31:16,238: INFO: data_Ingestion: File already exists of size: ~ 7718 KB]
+[2023-07-07 22:31:16,410: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:31:16,410: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-07-07 22:31:16,410: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:31:16,410: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:31:16,410: INFO: common: created directory at: artifacts]
+[2023-07-07 22:31:16,426: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 22:31:16,426: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:31:16,426: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-07-07 22:31:16,426: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:31:16,426: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:31:16,426: INFO: common: created directory at: artifacts]
+[2023-07-07 22:31:16,441: INFO: common: created directory at: artifacts/data_transformation]
+[2023-07-07 22:31:31,510: WARNING: _http: '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10.0)"), '(Request ID: 1386db81-e28b-411f-983b-bbfda9ed2380)')' thrown while requesting GET https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/config.json]
+[2023-07-07 22:31:31,510: ERROR: main: (ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10.0)"), '(Request ID: 1386db81-e28b-411f-983b-bbfda9ed2380)')]
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\connectionpool.py", line 461, in _make_request
+    httplib_response = conn.getresponse()
+                       ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\http\client.py", line 1378, in getresponse
+    response.begin()
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\http\client.py", line 318, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\http\client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\ssl.py", line 1278, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\ssl.py", line 1134, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\connectionpool.py", line 468, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\connectionpool.py", line 357, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10.0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 38, in <module>
+    data_transformation.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_03_data_transformation.py", line 13, in main
+    data_transformation = DataTransformation(config=data_transformation_config)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\components\data_transformation.py", line 12, in __init__
+    self.tokenizer = AutoTokenizer.from_pretrained(config.tokenizer_name)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\models\auto\tokenization_auto.py", line 658, in from_pretrained
+    config = AutoConfig.from_pretrained(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\models\auto\configuration_auto.py", line 944, in from_pretrained
+    config_dict, unused_kwargs = PretrainedConfig.get_config_dict(pretrained_model_name_or_path, **kwargs)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\configuration_utils.py", line 574, in get_config_dict
+    config_dict, kwargs = cls._get_config_dict(pretrained_model_name_or_path, **kwargs)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\configuration_utils.py", line 629, in _get_config_dict
+    resolved_config_file = cached_file(
+                           ^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\utils\hub.py", line 417, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\utils\_validators.py", line 118, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\file_download.py", line 1364, in hf_hub_download
+    http_get(
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\file_download.py", line 505, in http_get
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\file_download.py", line 442, in _request_wrapper
+    return http_backoff(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\utils\_http.py", line 273, in http_backoff
+    raise err
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\utils\_http.py", line 257, in http_backoff
+    response = session.request(method=method, url=url, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\utils\_http.py", line 62, in send
+    return super().send(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\requests\adapters.py", line 532, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: (ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10.0)"), '(Request ID: 1386db81-e28b-411f-983b-bbfda9ed2380)')
+[2023-07-07 22:32:25,463: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:32:25,463: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:32:25,463: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:32:25,463: INFO: common: created directory at: artifacts]
+[2023-07-07 22:32:25,463: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:32:25,463: INFO: data_Ingestion: File already exists of size: ~ 7718 KB]
+[2023-07-07 22:32:25,619: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:32:25,619: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-07-07 22:32:25,635: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:32:25,635: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:32:25,635: INFO: common: created directory at: artifacts]
+[2023-07-07 22:32:25,635: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 22:32:25,635: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:32:25,635: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-07-07 22:32:25,650: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:32:25,650: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:32:25,650: INFO: common: created directory at: artifacts]
+[2023-07-07 22:32:25,650: INFO: common: created directory at: artifacts/data_transformation]
+[2023-07-07 22:32:44,814: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:32:44,814: INFO: main: *******************]
+[2023-07-07 22:32:44,814: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2023-07-07 22:32:44,829: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:32:44,829: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:32:44,829: INFO: common: created directory at: artifacts]
+[2023-07-07 22:32:44,829: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 51, in <module>
+    model_trainer.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_04_model_trainer.py", line 12, in main
+    model_trainer_config = config.get_model_trainer_config()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\config\configuration.py", line 70, in get_model_trainer_config
+    params = self.params.TrainingArguments
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2023-07-07 22:32:54,048: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:32:54,064: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:32:54,064: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:32:54,064: INFO: common: created directory at: artifacts]
+[2023-07-07 22:32:54,064: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:32:54,064: INFO: data_Ingestion: File already exists of size: ~ 7718 KB]
+[2023-07-07 22:32:54,220: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:32:54,220: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-07-07 22:32:54,236: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:32:54,236: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:32:54,236: INFO: common: created directory at: artifacts]
+[2023-07-07 22:32:54,236: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 22:32:54,236: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:32:54,236: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-07-07 22:32:54,251: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:32:54,251: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:32:54,251: INFO: common: created directory at: artifacts]
+[2023-07-07 22:32:54,251: INFO: common: created directory at: artifacts/data_transformation]
+[2023-07-07 22:32:57,631: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\train\cache-5f1eec4e8806d030.arrow]
+[2023-07-07 22:32:58,178: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\validation\cache-898efd90904ef738.arrow]
+[2023-07-07 22:32:58,318: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:32:58,318: INFO: main: *******************]
+[2023-07-07 22:32:58,318: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2023-07-07 22:32:58,334: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:32:58,334: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:32:58,334: INFO: common: created directory at: artifacts]
+[2023-07-07 22:32:58,334: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 51, in <module>
+    model_trainer.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_04_model_trainer.py", line 12, in main
+    model_trainer_config = config.get_model_trainer_config()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\config\configuration.py", line 70, in get_model_trainer_config
+    params = self.params.TrainingArguments
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2023-07-07 22:34:43,181: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:34:43,181: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:34:43,181: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:34:43,181: INFO: common: created directory at: artifacts]
+[2023-07-07 22:34:43,181: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:34:43,181: INFO: data_Ingestion: File already exists of size: ~ 7718 KB]
+[2023-07-07 22:34:43,353: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:34:43,353: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-07-07 22:34:43,353: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:34:43,353: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:34:43,369: INFO: common: created directory at: artifacts]
+[2023-07-07 22:34:43,369: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 22:34:43,369: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:34:43,369: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-07-07 22:34:43,369: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:34:43,369: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:34:43,369: INFO: common: created directory at: artifacts]
+[2023-07-07 22:34:43,384: INFO: common: created directory at: artifacts/data_transformation]
+[2023-07-07 22:34:47,291: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\train\cache-5f1eec4e8806d030.arrow]
+[2023-07-07 22:34:47,322: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\test\cache-e042094af2918297.arrow]
+[2023-07-07 22:34:47,963: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:34:47,963: INFO: main: *******************]
+[2023-07-07 22:34:47,978: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2023-07-07 22:34:47,978: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:34:47,978: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:34:47,978: INFO: common: created directory at: artifacts]
+[2023-07-07 22:34:47,978: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 43, in <module>
+    model_trainer.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_04_model_trainer.py", line 12, in main
+    model_trainer_config = config.get_model_trainer_config()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\config\configuration.py", line 70, in get_model_trainer_config
+    params = self.params.TrainingArguments
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2023-07-07 22:35:10,662: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:35:10,662: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:35:10,662: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:35:10,662: INFO: common: created directory at: artifacts]
+[2023-07-07 22:35:10,677: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:35:10,677: INFO: data_Ingestion: File already exists of size: ~ 7718 KB]
+[2023-07-07 22:35:10,833: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:35:10,833: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-07-07 22:35:10,833: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:35:10,833: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:35:10,833: INFO: common: created directory at: artifacts]
+[2023-07-07 22:35:10,833: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 22:35:10,849: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:35:10,849: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-07-07 22:35:10,849: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:35:10,849: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:35:10,849: INFO: common: created directory at: artifacts]
+[2023-07-07 22:35:10,849: INFO: common: created directory at: artifacts/data_transformation]
+[2023-07-07 22:35:22,381: WARNING: _http: '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 99bbef89-cbde-4041-a1ce-69df295f2449)')' thrown while requesting HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/tokenizer_config.json]
+[2023-07-07 22:35:24,597: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\train\cache-5f1eec4e8806d030.arrow]
+[2023-07-07 22:35:24,613: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\test\cache-e042094af2918297.arrow]
+[2023-07-07 22:35:24,644: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\validation\cache-6c86df1b31bc104d.arrow]
+[2023-07-07 22:35:24,784: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:35:24,784: INFO: main: *******************]
+[2023-07-07 22:35:24,800: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2023-07-07 22:35:24,800: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:35:24,800: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:35:24,800: INFO: common: created directory at: artifacts]
+[2023-07-07 22:35:24,800: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 43, in <module>
+    model_trainer.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_04_model_trainer.py", line 12, in main
+    model_trainer_config = config.get_model_trainer_config()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\config\configuration.py", line 70, in get_model_trainer_config
+    params = self.params.TrainingArguments
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2023-07-07 22:46:54,102: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:46:54,118: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:46:54,118: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:46:54,118: INFO: common: created directory at: artifacts]
+[2023-07-07 22:46:54,118: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:46:54,118: INFO: data_Ingestion: File already exists of size: ~ 7718 KB]
+[2023-07-07 22:46:54,289: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:46:54,289: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-07-07 22:46:54,305: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:46:54,305: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:46:54,305: INFO: common: created directory at: artifacts]
+[2023-07-07 22:46:54,305: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 22:46:54,321: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:46:54,321: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-07-07 22:46:54,321: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:46:54,321: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:46:54,321: INFO: common: created directory at: artifacts]
+[2023-07-07 22:46:54,321: INFO: common: created directory at: artifacts/data_transformation]
+[2023-07-07 22:46:58,609: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\train\cache-5f1eec4e8806d030.arrow]
+[2023-07-07 22:46:58,641: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\test\cache-e042094af2918297.arrow]
+[2023-07-07 22:46:58,687: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\validation\cache-6c86df1b31bc104d.arrow]
+[2023-07-07 22:46:58,850: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:46:58,850: INFO: main: *******************]
+[2023-07-07 22:46:58,850: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2023-07-07 22:46:58,850: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:46:58,850: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:46:58,850: INFO: common: created directory at: artifacts]
+[2023-07-07 22:46:58,850: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 43, in <module>
+    model_trainer.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_04_model_trainer.py", line 12, in main
+    model_trainer_config = config.get_model_trainer_config()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\config\configuration.py", line 70, in get_model_trainer_config
+    params = self.params.TrainingArguments
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2023-07-07 22:48:00,097: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:48:00,097: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:48:00,097: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:48:00,113: INFO: common: created directory at: artifacts]
+[2023-07-07 22:48:00,113: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:48:00,113: INFO: data_Ingestion: File already exists of size: ~ 7718 KB]
+[2023-07-07 22:48:00,254: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:48:00,254: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-07-07 22:48:00,269: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:48:00,269: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:48:00,269: INFO: common: created directory at: artifacts]
+[2023-07-07 22:48:00,269: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 22:48:00,269: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:48:00,269: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-07-07 22:48:00,285: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:48:00,285: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:48:00,285: INFO: common: created directory at: artifacts]
+[2023-07-07 22:48:00,285: INFO: common: created directory at: artifacts/data_transformation]
+[2023-07-07 22:48:14,304: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\train\cache-5f1eec4e8806d030.arrow]
+[2023-07-07 22:48:14,339: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\test\cache-e042094af2918297.arrow]
+[2023-07-07 22:48:14,371: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\validation\cache-6c86df1b31bc104d.arrow]
+[2023-07-07 22:48:14,562: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:48:14,563: INFO: main: *******************]
+[2023-07-07 22:48:14,565: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2023-07-07 22:48:14,574: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:48:14,575: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:48:14,576: INFO: common: created directory at: artifacts]
+[2023-07-07 22:48:14,576: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 43, in <module>
+    model_trainer.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_04_model_trainer.py", line 12, in main
+    model_trainer_config = config.get_model_trainer_config()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\config\configuration.py", line 70, in get_model_trainer_config
+    params = self.params.TrainingArguments
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2023-07-07 22:48:46,202: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:48:46,217: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:48:46,217: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:48:46,217: INFO: common: created directory at: artifacts]
+[2023-07-07 22:48:46,233: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:48:46,233: INFO: data_Ingestion: File already exists of size: ~ 7718 KB]
+[2023-07-07 22:48:46,389: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:48:46,389: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-07-07 22:48:46,405: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:48:46,405: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:48:46,405: INFO: common: created directory at: artifacts]
+[2023-07-07 22:48:46,405: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 22:48:46,405: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:48:46,405: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-07-07 22:48:46,405: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:48:46,420: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:48:46,420: INFO: common: created directory at: artifacts]
+[2023-07-07 22:48:46,420: INFO: common: created directory at: artifacts/data_transformation]
+[2023-07-07 22:48:59,296: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\train\cache-5f1eec4e8806d030.arrow]
+[2023-07-07 22:48:59,311: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\test\cache-e042094af2918297.arrow]
+[2023-07-07 22:48:59,343: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\validation\cache-6c86df1b31bc104d.arrow]
+[2023-07-07 22:48:59,483: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:48:59,483: INFO: main: *******************]
+[2023-07-07 22:48:59,483: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2023-07-07 22:48:59,499: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:48:59,499: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:48:59,499: INFO: common: created directory at: artifacts]
+[2023-07-07 22:48:59,499: INFO: common: created directory at: artifacts/model_trainer]
+[2023-07-07 22:49:09,507: WARNING: _http: '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 2e6ba61e-b176-4342-818c-b91c85f0f1fb)')' thrown while requesting HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/tokenizer_config.json]
+[2023-07-07 22:50:33,858: ERROR: main: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.]
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 444, in _error_catcher
+    yield
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 567, in read
+    data = self._fp_read(amt) if not fp_closed else b""
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 533, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\http\client.py", line 466, in read
+    s = self.fp.read(amt)
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\ssl.py", line 1278, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\ssl.py", line 1134, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\requests\models.py", line 816, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 628, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 566, in read
+    with self._error_catcher():
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 449, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.")
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 43, in <module>
+    model_trainer.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_04_model_trainer.py", line 14, in main
+    model_trainer_config.train()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\components\model_trainer.py", line 19, in train
+    model_pegasus = AutoModelForSeq2SeqLM.from_pretrained(self.config.model_ckpt).to(device)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\models\auto\auto_factory.py", line 484, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\modeling_utils.py", line 2514, in from_pretrained
+    resolved_archive_file = cached_file(
+                            ^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\utils\hub.py", line 417, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\utils\_validators.py", line 118, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\file_download.py", line 1364, in hf_hub_download
+    http_get(
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\file_download.py", line 541, in http_get
+    for chunk in r.iter_content(chunk_size=10 * 1024 * 1024):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\requests\models.py", line 822, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+[2023-07-07 22:51:13,640: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-07 22:51:13,640: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:51:13,640: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:51:13,640: INFO: common: created directory at: artifacts]
+[2023-07-07 22:51:13,656: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-07 22:51:13,656: INFO: data_Ingestion: File already exists of size: ~ 7718 KB]
+[2023-07-07 22:51:13,796: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:51:13,812: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-07-07 22:51:13,812: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:51:13,812: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:51:13,812: INFO: common: created directory at: artifacts]
+[2023-07-07 22:51:13,812: INFO: common: created directory at: artifacts/data_validation]
+[2023-07-07 22:51:13,812: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:51:13,812: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-07-07 22:51:13,827: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:51:13,827: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:51:13,827: INFO: common: created directory at: artifacts]
+[2023-07-07 22:51:13,827: INFO: common: created directory at: artifacts/data_transformation]
+[2023-07-07 22:51:17,157: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\train\cache-5f1eec4e8806d030.arrow]
+[2023-07-07 22:51:17,173: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\test\cache-e042094af2918297.arrow]
+[2023-07-07 22:51:17,189: WARNING: arrow_dataset: Loading cached processed dataset at C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\artifacts\data_ingestion\samsum_dataset\validation\cache-6c86df1b31bc104d.arrow]
+[2023-07-07 22:51:17,360: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-07-07 22:51:17,360: INFO: main: *******************]
+[2023-07-07 22:51:17,360: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2023-07-07 22:51:17,360: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-07 22:51:17,360: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-07 22:51:17,376: INFO: common: created directory at: artifacts]
+[2023-07-07 22:51:17,376: INFO: common: created directory at: artifacts/model_trainer]
+[2023-07-07 22:51:40,174: ERROR: main: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.]
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 444, in _error_catcher
+    yield
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 567, in read
+    data = self._fp_read(amt) if not fp_closed else b""
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 533, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\http\client.py", line 466, in read
+    s = self.fp.read(amt)
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\ssl.py", line 1278, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\ssl.py", line 1134, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\requests\models.py", line 816, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 628, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 566, in read
+    with self._error_catcher():
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\urllib3\response.py", line 449, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.")
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Umair\Documents\GitHub\Text_Summarizer_Uisng_NLP\main.py", line 43, in <module>
+    model_trainer.main()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\pipeline\stage_04_model_trainer.py", line 14, in main
+    model_trainer_config.train()
+  File "c:\users\umair\documents\github\text_summarizer_uisng_nlp\src\text_Summarizer\components\model_trainer.py", line 19, in train
+    model_pegasus = AutoModelForSeq2SeqLM.from_pretrained(self.config.model_ckpt).to(device)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\models\auto\auto_factory.py", line 484, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\modeling_utils.py", line 2514, in from_pretrained
+    resolved_archive_file = cached_file(
+                            ^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\transformers\utils\hub.py", line 417, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\utils\_validators.py", line 118, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\file_download.py", line 1364, in hf_hub_download
+    http_get(
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\huggingface_hub\file_download.py", line 541, in http_get
+    for chunk in r.iter_content(chunk_size=10 * 1024 * 1024):
+  File "C:\Users\Umair\anaconda3\envs\myenv\Lib\site-packages\requests\models.py", line 822, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.

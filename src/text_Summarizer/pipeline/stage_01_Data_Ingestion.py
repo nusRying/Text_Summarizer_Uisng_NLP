@@ -3,8 +3,8 @@ from text_Summarizer.components.data_Ingestion import DataIngestion
 from text_Summarizer.logging import logger
 
 
-class data_Ingestion_Training_Pipeline:
-    def __init__(self) -> None:
+class DataIngestionTrainingPipeline:
+    def __init__(self):
         pass
 
     def main(self):
